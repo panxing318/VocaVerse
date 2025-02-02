@@ -1,4 +1,4 @@
-<img width="379" alt="image" src="https://github.com/user-attachments/assets/b25833a5-908a-4efe-9418-5562d1da1f5e" /># VocaVerse -- 一款基于语音识别与生成式AI的个性化语言学习工具
+# VocaVerse -- 一款基于语音识别与生成式AI的个性化语言学习工具
 
 
 <center>
