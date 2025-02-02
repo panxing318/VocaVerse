@@ -1,6 +1,6 @@
 # VocaVerse -- 一款基于语音识别与生成式AI的个性化语言学习工具
 <img width="248" alt="2071738532081_ pic" src="https://github.com/user-attachments/assets/eaef656a-8957-4dc4-9ed2-8df3ed56cf0d" />
-\n 
+<br>
 <img width="454" alt="2081738532111_ pic" src="https://github.com/user-attachments/assets/3a4edafe-a671-4f27-a3bb-dd45311ada26" />
 
 
