@@ -1,14 +1,15 @@
 # VocaVerse -- 一款基于语音识别与生成式AI的个性化语言学习工具
 <img width="248" alt="2071738532081_ pic" src="https://github.com/user-attachments/assets/eaef656a-8957-4dc4-9ed2-8df3ed56cf0d" />
+\n 
 <img width="454" alt="2081738532111_ pic" src="https://github.com/user-attachments/assets/3a4edafe-a671-4f27-a3bb-dd45311ada26" />
 
 
 ## 1. 项目背景
-### 市场痛点：传统语言APP存在反馈延迟、缺乏真实对话场景、纠错机械化等问题
-### 技术机会：Whisper语音识别 + GPT-4对话生成 + 情感识别技术的成熟
+### 市场痛点：\n 传统语言APP存在反馈延迟、缺乏真实对话场景、纠错机械化等问题
+### 技术机会：\n Whisper语音识别 + GPT-4对话生成 + 情感识别技术的成熟
 ### 竞品差异：
-### ▶ 与Duolingo相比：实时生成个性化对话场景
-### ▶ 与Cambly相比：7x24h可用性+系统化发音纠正
+\n ▶ 与Duolingo相比：实时生成个性化对话场景
+\n ▶ 与Cambly相比：7x24h可用性+系统化发音纠正
 
 
 
