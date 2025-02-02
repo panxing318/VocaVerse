@@ -1,5 +1,7 @@
 # VocaVerse -- 一款基于语音识别与生成式AI的个性化语言学习工具
-![image](https://github.com/user-attachments/assets/ae7b98a3-c9fe-4512-8d86-2aa7b85eebeb)
+<img width="248" alt="2071738532081_ pic" src="https://github.com/user-attachments/assets/eaef656a-8957-4dc4-9ed2-8df3ed56cf0d" />
+<img width="454" alt="2081738532111_ pic" src="https://github.com/user-attachments/assets/3a4edafe-a671-4f27-a3bb-dd45311ada26" />
+
 
 ## 1. 项目背景
 ### 市场痛点：传统语言APP存在反馈延迟、缺乏真实对话场景、纠错机械化等问题
@@ -29,6 +31,5 @@
 
 
 ## 4. 技术架构
-![exported_image](https://github.com/user-attachments/assets/a0f491c7-97fb-47ae-8537-beea12b8df48)
-
+<img width="468" alt="2051738531647_ pic" src="https://github.com/user-attachments/assets/10817315-c775-4f7e-a6f6-3a670545b789" />
 
