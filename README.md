@@ -38,3 +38,15 @@
 <center>
 <img width="468" alt="2051738531647_ pic" src="https://github.com/user-attachments/assets/10817315-c775-4f7e-a6f6-3a670545b789" />
 </center>
+
+<br>
+
+
+
+## 5. 系统架构
+
+
+
+![2091738533335_ pic](https://github.com/user-attachments/assets/261086b2-a80d-44e4-8937-a35f787843ac)
+
+
