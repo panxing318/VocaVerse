@@ -3,8 +3,8 @@
 
 <img width="379" alt="18781738535549_ pic" src="https://github.com/user-attachments/assets/167b4a41-65e9-4110-8944-c1fe9e9376da" />
 <br>
-![鸡哥](https://github.com/user-attachments/assets/a89060d1-fc06-45d5-9ac0-3b9870f67909)
 
+<img width="787" alt="2111738774839_ pic" src="https://github.com/user-attachments/assets/59ca4372-9b5d-4219-95db-2bf2d02b991f" />
 
 </center>
 
