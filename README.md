@@ -1,10 +1,9 @@
 # VocaVerse -- 一款基于语音识别与生成式AI的个性化语言学习工具
 
 
-<center>
-<img width="248" alt="2071738532081_ pic" src="https://github.com/user-attachments/assets/eaef656a-8957-4dc4-9ed2-8df3ed56cf0d" />
-<br>
 <img width="379" alt="18781738535549_ pic" src="https://github.com/user-attachments/assets/167b4a41-65e9-4110-8944-c1fe9e9376da" />
+<br>
+![鸡哥](https://github.com/user-attachments/assets/a89060d1-fc06-45d5-9ac0-3b9870f67909)
 
 
 </center>
